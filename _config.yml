@@ -1,2 +1,3 @@
 theme: jekyll-theme-slate
 title: Welcome to the tjancic's homepage!
+include: [.well-known]
