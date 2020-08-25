@@ -1,9 +1,3 @@
-
-<!DOCTYPE html>
-<head><meta name="google-site-verification" content="2ZwY93Dwf5AhMemmtSuU1Zy-o5jAizK4TfNY1RQIwIs" /></head>
-<html>
-<body>
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/tjancic/tjancic.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
