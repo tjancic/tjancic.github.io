@@ -1,2 +1,5 @@
 theme: jekyll-theme-slate
 include: [.well-known]
+encoding: UTF-8
+disable_disk_cache: TRUE
+
