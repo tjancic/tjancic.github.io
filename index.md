@@ -1,14 +1,12 @@
-## This is test page for IPS payment
+## Ovo je testna stranica za IPS plaćanja
 
-If you want to perform EK payment for predefined data click [here](https://tjancic.github.io/ips/ek/SzpFS3xWOjAxfEM6MXxSOjE2MDAwMDAwMDAyNzUwMTcxMHxOOkl6ZGF2YWNrYSBrdWNhIExhZ3VuYSBCZW9ncmFkfEk6UlNEMTM5OSwwMHxTRjoyMjF8TTo1OTQyfFJQOjEzSU4wNjgyMjAxOTAwMTU1ODE=)
+Ako želite da izvršite EK tip plaćanja sa predefinisanim podacima kliknite [ovde](https://tjancic.github.io/ips/ek/SzpFS3xWOjAxfEM6MXxSOjE2MDAwMDAwMDAyNzUwMTcxMHxOOkl6ZGF2YWNrYSBrdWNhIExhZ3VuYSBCZW9ncmFkfEk6UlNEMTM5OSwwMHxTRjoyMjF8TTo1OTQyfFJQOjEzSU4wNjgyMjAxOTAwMTU1ODE=)
 
-### IPS EK Data
+### Predefinisani podaci
 
-Data that should be passed by Android App Links and iOS Universal links
+Podaci koji se prenose sa sajta na određenu aplikaciju putem _Android App Links_ za Android aplikaciju, odnosno _Universal links_ za iOS aplikaciju.
 
 ```markdown
-Syntax highlighted code block
-
 K:EK|
 V:01|
 C:1|
@@ -19,3 +17,4 @@ SF:221|
 M:5942|
 RP:13IN068220190015581
 ```
+__Napomena:__ Podaci su kodovani sa base64 vrstom šifrovanja.
