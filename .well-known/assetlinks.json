@@ -6,4 +6,13 @@
     "sha256_cert_fingerprints":
     ["E4:3F:4B:E8:96:18:2D:1C:F8:A9:E9:E8:64:9E:A4:25:FF:FC:7E:B3:68:9E:C8:D9:2E:23:2D:B8:88:69:E6:64"]
   }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "rs.droidtech.tjancicgithubio",
+    "sha256_cert_fingerprints":
+    ["FA:54:94:AA:3B:9E:31:F1:EE:5B:C1:0D:B3:15:CE:1C:95:09:83:2A:ED:CC:2B:6E:F4:ED:AA:F5:B7:30:A0:4A"]
+  }
 }]
