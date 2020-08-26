@@ -6,15 +6,18 @@ Ako želite da izvršite EK tip plaćanja sa predefinisanim podacima kliknite [o
 
 Podaci koji se prenose sa sajta na određenu aplikaciju putem _Android App Links_ za Android aplikaciju, odnosno _Universal links_ za iOS aplikaciju.
 
+### Download
+Android application [link](tjancic.github.io/download/tjancic.github.io.apk)
+
 ```markdown
-K:EK|
-V:01|
-C:1|
-R:160000000027501710|
-N:Izdavacka kuca Laguna Beograd|
-I:RSD1399,00|
-SF:221|
-M:5942|
+K:EK
+V:01
+C:1
+R:160000000027501710
+N:Izdavacka kuca Laguna Beograd
+I:RSD1399,00
+SF:221
+M:5942
 RP:13IN068220190015581
 ```
 __Napomena:__ Podaci su kodovani sa base64 vrstom šifrovanja.
