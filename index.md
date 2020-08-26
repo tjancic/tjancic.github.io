@@ -1,13 +1,13 @@
 ## Ovo je testna stranica za IPS plaćanja
 
-Ako želite da izvršite EK tip plaćanja sa predefinisanim podacima kliknite [ovde](https://tjancic.github.io/ips/ek/SzpFS3xWOjAxfEM6MXxSOjE2MDAwMDAwMDAyNzUwMTcxMHxOOkl6ZGF2YWNrYSBrdWNhIExhZ3VuYSBCZW9ncmFkfEk6UlNEMTM5OSwwMHxTRjoyMjF8TTo1OTQyfFJQOjEzSU4wNjgyMjAxOTAwMTU1ODE=)
+Ako želite da izvršite EK tip plaćanja sa predefinisanim podacima kliknite [ovde.](https://tjancic.github.io/ips/ek/SzpFS3xWOjAxfEM6MXxSOjE2MDAwMDAwMDAyNzUwMTcxMHxOOkl6ZGF2YWNrYSBrdWNhIExhZ3VuYSBCZW9ncmFkfEk6UlNEMTM5OSwwMHxTRjoyMjF8TTo1OTQyfFJQOjEzSU4wNjgyMjAxOTAwMTU1ODE=)
 
 ### Predefinisani podaci
 
 Podaci koji se prenose sa sajta na određenu aplikaciju putem _Android App Links_ za Android aplikaciju, odnosno _Universal links_ za iOS aplikaciju.
 
 ### Download
-Android application [link](tjancic.github.io/download/tjancic.github.io.apk)
+Android application [link.](https://tjancic.github.io/download/tjancic.github.io.apk)
 
 ```markdown
 K:EK
