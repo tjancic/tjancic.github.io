@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "eu.newfrontier.iBanking.mobile.AIK",
+    "package_name": "eu.newfrontier.iBanking.mobile.AIK.Retail",
     "sha256_cert_fingerprints":
-    ["E4:3F:4B:E8:96:18:2D:1C:F8:A9:E9:E8:64:9E:A4:25:FF:FC:7E:B3:68:9E:C8:D9:2E:23:2D:B8:88:69:E6:64"]
+    ["1A:20:54:0D:9E:F8:1C:52:45:E9:F0:50:FA:3E:EB:22:A9:5B:47:87:0D:91:73:27:3D:C0:C0:77:78:EE:15:D9"]
   }
 }]
