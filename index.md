@@ -1,6 +1,6 @@
 ## Ovo je testna stranica za IPS plaćanja
 
-Ako želite da izvršite EK tip plaćanja sa predefinisanim podacima kliknite [ovde.](https://tjancic.github.io/ips/ek/fl/?data=SzpFS3xWOjAxfEM6MXxSOjEwMDAwMDAwMDAwMDAwMDE3OHxOOkl6ZGF2YWNrYSBrdWNhIEtuamlnYSBCZW9ncmFkfEk6UlNEMTM5OSwwMHxTRjoyMjF8TTo1OTQyfFJQOjEyMzQ1Njc4MjAxOTAwMTU1ODE=&callback=https%3A%2F%2Fcallbackurlprimer.com%2Findex.php%3Froute%3Dproduct%2Fproduct%26path%3D108%26product_id%3D77)
+Ako želite da izvršite EK tip plaćanja sa predefinisanim podacima kliknite [ovde.](https://tjancic.github.io/ips/ek/fl/?data=SzpFS3xWOjAxfEM6MXxSOjg0NTAwMDAwMDA0MDQ4NDk4N3xOOkZLIE9iZWxpYyAKVWxpY2EgT2JhbHNrYSAyMCAKT0JSRU5PVkFDfEk6UlNEMTAsMDB8U0Y6Mjg5fFM6VVBMQVRBIFBPIFJBxIxVTlUgWkEgRUwuIEVORVJHSUpVfE06NTk5OXxSTzo5NzEyMzQ1Ng==&callback=https://tjancic.github.io)
 
 ### Predefinisani podaci
 
