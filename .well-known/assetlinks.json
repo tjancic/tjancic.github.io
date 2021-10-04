@@ -24,6 +24,18 @@
     }
   },
   {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "eu.newfrontier.iBanking.mobile.SOG.Retail",
+      "sha256_cert_fingerprints": [
+        "78:41:05:BF:8E:F6:B1:2D:39:1A:23:68:FF:C2:E4:B2:CF:7C:89:98:7A:1F:A5:6E:A8:BF:5E:40:72:6F:86:29"
+      ]
+    }
+  },
+  {
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
